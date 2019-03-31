@@ -5,7 +5,8 @@ This project is an analysis of three datasets: Cryptocurrency datasets, sensor m
 ## HOW TO START
 Right now the project only has code in the notebooks directory. In order to work with the project, you need:
 1. Run the requirements.txt using conda or pip.
-2. Run the script make_dataset.py in order to have the desired data.
+2. Run the script ./src/data/create_directories.py in order to have the desired directories.
+3. The three datasets must be downloaded, not hosted on github.
 
 Project Organization
 ------------
